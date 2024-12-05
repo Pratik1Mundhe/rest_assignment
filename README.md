@@ -26,3 +26,8 @@ python manage.py migrate
 python manage.py createsuperuser
 python manage.py runserver
 ```
+
+
+### setup python3.10 
+chmod +x setup_python3.10.sh
+./setup_python3.10.sh
